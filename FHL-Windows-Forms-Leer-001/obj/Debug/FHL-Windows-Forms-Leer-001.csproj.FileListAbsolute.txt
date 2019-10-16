@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\FHL-Windows-Forms-Leer-001\FHL-Windows-Forms-Leer-001\obj\Debug\FHL-Windows-Forms-Leer-001.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\FHL-Windows-Forms-Leer-001\FHL-Windows-Forms-Leer-001\obj\Debug\FHL-Windows-Forms-Leer-001.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\FHL-Windows-Forms-Leer-001\FHL-Windows-Forms-Leer-001\bin\Debug\FHL-Windows-Forms-Leer-001.exe.config
+C:\Users\walte\source\repos\FHL-Windows-Forms-Leer-001\FHL-Windows-Forms-Leer-001\bin\Debug\FHL-Windows-Forms-Leer-001.exe
+C:\Users\walte\source\repos\FHL-Windows-Forms-Leer-001\FHL-Windows-Forms-Leer-001\bin\Debug\FHL-Windows-Forms-Leer-001.pdb
+C:\Users\walte\source\repos\FHL-Windows-Forms-Leer-001\FHL-Windows-Forms-Leer-001\obj\Debug\FHL-Windows-Forms-Leer-001.exe
+C:\Users\walte\source\repos\FHL-Windows-Forms-Leer-001\FHL-Windows-Forms-Leer-001\obj\Debug\FHL-Windows-Forms-Leer-001.pdb
